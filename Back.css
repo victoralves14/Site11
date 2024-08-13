@@ -1,0 +1,20 @@
+.Categorias img{
+    margin: 80px;
+    width: 80x;
+    height: 80px;
+    border-radius: 130px;
+}
+body{
+    width: 98%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+   color: rgb(255, 255, 255);
+}
+h4{
+    color: rgb(255, 255, 255);
+}
+a{
+    color: rgba(68, 131, 86, 0.82);
+}
